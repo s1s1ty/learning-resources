@@ -9,4 +9,8 @@ CS self learning resources
 
 ## Docker
 ## Kubernetes
+- [Kubernetes By Example](http://kubernetesbyexample.com/)
+- [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
+
+
 ## Mongo db
