@@ -8,6 +8,7 @@ CS self learning resources
 - [documentation of ES](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
 
 ## Docker
+- [what is a container](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
 ## Kubernetes
 - [Kubernetes By Example](http://kubernetesbyexample.com/)
 - [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
