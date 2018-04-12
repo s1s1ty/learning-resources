@@ -16,6 +16,7 @@ CS self learning resources
 - [cheatsheet-1](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [cheatsheet-2](https://codefresh.io/kubernetes-tutorial/kubernetes-cheat-sheet/)
 - [documentation of K8s](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+- [running kubernetes locally via Minikube](https://kubernetes.io/docs/getting-started-guides/minikube/#quickstart)
 
 
 ## Mongo db
