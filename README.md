@@ -12,7 +12,7 @@ CS self learning resources
 ## Kubernetes
 - [Kubernetes By Example](http://kubernetesbyexample.com/)
 - [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
-- [tutorial point](https://www.tutorialspoint.com/kubernetes/index.htm)
+- [Kubernetes - Architecture](https://www.tutorialspoint.com/kubernetes/kubernetes_architecture.htm)
 - [cheatsheet-1](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [cheatsheet-2](https://codefresh.io/kubernetes-tutorial/kubernetes-cheat-sheet/)
 - [documentation of K8s](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
