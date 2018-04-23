@@ -7,6 +7,7 @@ CS self learning resources
 - [elasticsearch-201](https://www.youtube.com/watch?v=PpX7J-G2PEo)
 - [documentation of ES](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
 - [Replica Best Practices](https://www.objectrocket.com/blog/elasticsearch/clustered-elasticsearch-indexing-shard-replica-best-practices/)
+- [ES Optimization Fuzziness Performance](https://qbox.io/blog/elasticsearch-optimization-fuzziness-performance)
 
 ## Docker
 - [what is a container](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
