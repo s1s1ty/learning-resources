@@ -8,9 +8,10 @@ CS self learning resources
 - [documentation of ES](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
 - [Replica Best Practices](https://www.objectrocket.com/blog/elasticsearch/clustered-elasticsearch-indexing-shard-replica-best-practices/)
 - [ES Optimization Fuzziness Performance](https://qbox.io/blog/elasticsearch-optimization-fuzziness-performance)
+- [Prefix, Term and Fuzzy query](https://medium.com/@oysterpail/fuzzy-queries-ae47b66b325c)
 
 ## Docker
-- [what is a container](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
+- [What Is a Container](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
 ## Kubernetes
 - [Kubernetes By Example](http://kubernetesbyexample.com/)
 - [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
@@ -23,4 +24,5 @@ CS self learning resources
 
 ## Mongo db
 ## gRPC
+- [0 to gRPC](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers)
 ## HAProxy
