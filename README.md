@@ -25,4 +25,5 @@ CS self learning resources
 ## Mongo db
 ## gRPC
 - [0 to gRPC](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers)
+- [REST vs RPC](https://www.linkedin.com/pulse/rest-vs-rpc-soa-showdown-joshua-hartman)
 ## HAProxy
