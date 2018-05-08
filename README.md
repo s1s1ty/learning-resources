@@ -12,6 +12,7 @@ CS self learning resources
 
 ## Docker
 - [What Is a Container](https://www.youtube.com/watch?v=EnJ7qX9fkcU)
+
 ## Kubernetes
 - [Kubernetes By Example](http://kubernetesbyexample.com/)
 - [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
@@ -22,7 +23,10 @@ CS self learning resources
 - [running kubernetes locally via Minikube](https://kubernetes.io/docs/getting-started-guides/minikube/#quickstart)
 
 
-## Mongo db
+## Microservice
+- [Introduction To Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
+- [Microservices in Golang](https://ewanvalentine.io/tag/golang/)
+
 ## gRPC
 - [0 to gRPC](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers)
 - [REST vs RPC](https://www.linkedin.com/pulse/rest-vs-rpc-soa-showdown-joshua-hartman)
