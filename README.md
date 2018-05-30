@@ -30,7 +30,8 @@ CS self learning resources
 ## gRPC
 - [0 to gRPC](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers)
 - [REST vs RPC](https://www.linkedin.com/pulse/rest-vs-rpc-soa-showdown-joshua-hartman)
-## HAProxy
+## Redis
+- [Memcached vs Redis, Which One to Pick?](https://www.linkedin.com/pulse/memcached-vs-redis-which-one-pick-ranjeet-vimal/)
 
 ## Shell Scripting
 - [Shell scripting the most easiest way](https://www.shellscript.sh/)
