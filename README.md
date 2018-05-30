@@ -34,5 +34,8 @@ CS self learning resources
 ## Redis
 - [Memcached vs Redis, Which One to Pick?](https://www.linkedin.com/pulse/memcached-vs-redis-which-one-pick-ranjeet-vimal/)
 
+## Message Queueing
+- [What is message queueing?](https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html)
+- [RabbitMQ Vs Apache Kafka](http://www.ranjeetvimal.com/rabbitmq-vs-apache-kafka/)
 ## Shell Scripting
 - [Shell scripting the most easiest way](https://www.shellscript.sh/)
