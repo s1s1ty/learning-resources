@@ -22,6 +22,8 @@ CS self learning resources
 - [documentation of K8s](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 - [running kubernetes locally via Minikube](https://kubernetes.io/docs/getting-started-guides/minikube/#quickstart)
 
+## Design Patterns
+- [Video tutorial](https://www.youtube.com/playlist?list=PLuCVssMJ_UI2w6HU4jiE1lTGZr4vgDwOx)
 
 ## Microservice
 - [Does your startup need microservices?](http://www.ranjeetvimal.com/microservices-architecture-for-startups/)
