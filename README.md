@@ -24,6 +24,7 @@ CS self learning resources
 
 ## Design Patterns
 - [Video tutorial](https://www.youtube.com/playlist?list=PLuCVssMJ_UI2w6HU4jiE1lTGZr4vgDwOx)
+- [Head first design patterns](https://www.u-cursos.cl/usuario/f133dab21b6cbf814b4607124f431358/mi_blog/r/head_first_design_patterns.pdf)
 
 ## Microservice
 - [Does your startup need microservices?](http://www.ranjeetvimal.com/microservices-architecture-for-startups/)
