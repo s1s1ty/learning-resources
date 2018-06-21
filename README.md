@@ -34,6 +34,7 @@ CS self learning resources
 
 ## GraphQL
 - [How to graphql](https://www.howtographql.com/basics/0-introduction/)
+- [REST vs GraphQL](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)
 
 ## gRPC
 - [0 to gRPC](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers)
