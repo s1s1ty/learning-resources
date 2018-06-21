@@ -32,14 +32,19 @@ CS self learning resources
 - [Microservices in Golang](https://ewanvalentine.io/tag/golang/)
 - [Building Microservices with Python](https://medium.com/@ssola/building-microservices-with-python-part-i-5240a8dcc2fb)
 
+## GraphQL
+- [How to graphql](https://www.howtographql.com/basics/0-introduction/)
+
 ## gRPC
 - [0 to gRPC](https://scotch.io/tutorials/implementing-remote-procedure-calls-with-grpc-and-protocol-buffers)
 - [REST vs RPC](https://www.linkedin.com/pulse/rest-vs-rpc-soa-showdown-joshua-hartman)
+
 ## Redis
 - [Memcached vs Redis, Which One to Pick?](https://www.linkedin.com/pulse/memcached-vs-redis-which-one-pick-ranjeet-vimal/)
 
 ## Message Queueing
 - [What is message queueing?](https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html)
 - [RabbitMQ Vs Apache Kafka](http://www.ranjeetvimal.com/rabbitmq-vs-apache-kafka/)
+
 ## Shell Scripting
 - [Shell scripting the most easiest way](https://www.shellscript.sh/)
