@@ -49,3 +49,4 @@ CS self learning resources
 
 ## Shell Scripting
 - [Shell scripting the most easiest way](https://www.shellscript.sh/)
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
