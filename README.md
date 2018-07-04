@@ -33,7 +33,7 @@ CS self learning resources
 - [Does your startup need microservices?](http://www.ranjeetvimal.com/microservices-architecture-for-startups/)
 - [Introduction To Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 - [Microservices in Golang](https://ewanvalentine.io/tag/golang/)
-- [Building Microservices with Python](https://medium.com/@ssola/building-microservices-with-python-part-i-5240a8dcc2fb)
+- [Design microservice](https://12factor.net/)
 
 ## GraphQL
 - [How to graphql](https://www.howtographql.com/basics/0-introduction/)
