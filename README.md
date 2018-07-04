@@ -1,6 +1,9 @@
 # learning-resources
 CS self learning resources
 
+## Golang
+- [Common mistakes in go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+
 ## Elastic Search
 - [elasticsearch-101](http://www.lucassaldanha.com/elasticsearch-101/)
 - [elasticsearch-102](http://joelabrahamsson.com/elasticsearch-101/)
