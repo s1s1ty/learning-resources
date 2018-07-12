@@ -55,3 +55,6 @@ CS self learning resources
 ## Shell Scripting
 - [Shell scripting the most easiest way](https://www.shellscript.sh/)
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+
+## SQL
+- [Sql cheat-sheet for interviews](https://towardsdatascience.com/sql-cheat-sheet-for-interviews-6e5981fa797b)
