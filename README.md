@@ -8,6 +8,7 @@ CS self learning resources
 - [elasticsearch-101](http://www.lucassaldanha.com/elasticsearch-101/)
 - [elasticsearch-102](http://joelabrahamsson.com/elasticsearch-101/)
 - [elasticsearch-201](https://www.youtube.com/watch?v=PpX7J-G2PEo)
+- [ES-Presentation](http://media.sundog-soft.com/es6/ElasticStack.pdf)
 - [documentation of ES](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
 - [Replica Best Practices](https://www.objectrocket.com/blog/elasticsearch/clustered-elasticsearch-indexing-shard-replica-best-practices/)
 - [ES Optimization Fuzziness Performance](https://qbox.io/blog/elasticsearch-optimization-fuzziness-performance)
