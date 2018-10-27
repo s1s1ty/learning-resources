@@ -1,6 +1,9 @@
 # learning-resources
 CS self learning resources
 
+## Python 
+- [Intermediate topics](http://book.pythontips.com/en/latest/index.html)
+
 ## Golang
 - [Common mistakes in go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
